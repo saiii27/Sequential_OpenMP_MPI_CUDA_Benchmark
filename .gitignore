@@ -1,0 +1,30 @@
+# Compiled binaries
+matrix_sequential
+matrix_openmp
+matrix_mpi
+matrix_cuda
+
+# Object files
+*.o
+*.out
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary extraction folders
+_extracted_temp/
